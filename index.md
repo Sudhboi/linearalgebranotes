@@ -5,4 +5,5 @@ Welcome to my MATH2213 Notes! Please refresh the page if you suspect it is missi
 
 ### All Angles Series on Linear Algebra
 [[Vector Spaces]]
+[[Lengths, Angles, Projections, Calculations]]
 
